@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\obj\Debug\TeacherRecords_Project.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\obj\Debug\TeacherRecords_Project.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\obj\Debug\TeacherRecords_Project.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\bin\Debug\TeacherRecords_Project.exe.config
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\bin\Debug\TeacherRecords_Project.exe
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\bin\Debug\TeacherRecords_Project.pdb
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\obj\Debug\TeacherRecords_Project.exe
+D:\SimpliLearn Course\Day19\TeacherRecords_Project\TeacherRecords_Project\obj\Debug\TeacherRecords_Project.pdb
